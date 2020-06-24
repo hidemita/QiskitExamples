@@ -2,12 +2,12 @@
 
 ## Summary
 
-Experimanetal Qiskit code snippets for "Quantum Computation with Topological Codes".
+Experimental Qiskit code snippets for "Quantum Computation with Topological Codes".
 
 
-## install Qiskit envitonment
+## install Qiskit environment
 
-1.  get "envitonment.yml" from official qiskit-tutorial repository
+1.  get "environment.yml" from official qiskit-tutorial repository
 
 2. install and setup miniconda
 
