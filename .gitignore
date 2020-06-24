@@ -1,0 +1,15 @@
+*~
+~*
+*#
+*.bak
+*.swp
+*.pyc
+*.class
+*.exe
+release/
+external/
+archive/
+log/
+*.zip
+*.gz
+*.bz2
