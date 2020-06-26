@@ -1,17 +1,24 @@
 # Qiskit Examples
 
+<div style="text-align: right">Last update: 2020-06-26</div>
+
 ## Summary
 
 Experimental Qiskit code snippets for "Quantum Computation with Topological Codes".
 
+### TQC-SurfaceCode1.ipynb
 
-## install Qiskit environment
+Surface code exmaples.
+Including a 5-bit planar code and a 8-bit toric code.
 
-1.  get "environment.yml" from official qiskit-tutorial repository
 
-2. install and setup miniconda
+## Install Qiskit environment
 
-3. create miniconda virtual environment for Qiskit
+1. get "environment.yml" from the official [qiskit-tutorial](https://github.com/Qiskit/qiskit-tutorials).
+
+2. follow the tutorial instruction to install [miniconda](https://docs.conda.io/en/latest/miniconda.html).
+
+3. create miniconda virtual environment for Qiskit.
 
 ```
 conda env create -f environment.yml
