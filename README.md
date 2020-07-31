@@ -11,6 +11,10 @@ Experimental Qiskit code snippets for "Quantum Computation with Topological Code
 Surface code exmaples.
 Including a 5-bit planar code and a 8-bit toric code.
 
+### TQC-SurfaceCode2.ipynb
+
+Surface code "Defect Pair" exmaple.
+
 
 ## Install Qiskit environment
 
